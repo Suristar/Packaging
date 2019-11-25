@@ -1,0 +1,8 @@
+data-2.csv
+data2.py
+setup.py
+project2.egg-info/PKG-INFO
+project2.egg-info/SOURCES.txt
+project2.egg-info/dependency_links.txt
+project2.egg-info/requires.txt
+project2.egg-info/top_level.txt
